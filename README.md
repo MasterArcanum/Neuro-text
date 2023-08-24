@@ -5,3 +5,5 @@ In a specific example, 10 epochs and a butch of -128 are used by default. The ne
 P.S. If the network does not accurately generate the text, try to increase the number of training epochs and the training package. Comments in Russian.
 You can run the script in colab google or IDE for python.
 Before launching, make sure that you have all the necessary libraries installed
+
+The neural network will be trained every time you run the script, if you want to avoid this, train the model and save it, and then you can use the trained model.
